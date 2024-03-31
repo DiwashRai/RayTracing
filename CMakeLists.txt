@@ -11,4 +11,6 @@ add_executable(raytracing main.cpp
         sphere.h
         hittable_list.h
         common.h
-        interval.h)
+        interval.h
+        camera.h
+        material.h)
